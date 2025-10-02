@@ -3,7 +3,8 @@ import { motion } from 'framer-motion';
 import { Canvas } from '@react-three/fiber';
 import { Float } from '@react-three/drei';
 import { Volume2, VolumeX } from 'lucide-react';
-import { avatar } from '../assets';
+import avatar from '../avator.png';
+
 
 import ComputerCanvas from './canvas/Computer';
 import TechOrbit from './canvas/TechOrbit';
