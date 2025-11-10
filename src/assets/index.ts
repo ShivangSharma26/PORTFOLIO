@@ -21,7 +21,7 @@ import herobg from "./herobg.png";
 
 // Others
 import logo from "./logo.svg";
-import avatar from "./avator.png";
+import avatar from "./avatar.png";
 
 export {
   logo,
