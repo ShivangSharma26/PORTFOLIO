@@ -68,7 +68,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5, delay: 0.4 }}
             >
-              B.Tech student at NIT Rourkela with a Minorrr in Computer Science. I specialize in AI/ML engineering, backend development, and data science,
+              B.Tech student at NIT Rourkela with a Minor in Computer Science. I specialize in AI/ML engineering, backend development, and data science,
               turning complex problems into powerful solutions.
             </motion.p>
             
