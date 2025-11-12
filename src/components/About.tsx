@@ -51,7 +51,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-gray-300 text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a Computer Science student at NIT Rourkela with a passion for building innovative solutions. With a CGPA of 9.0, I balance academic excellence with practical coding skills. I've solved 400+ problems on LeetCode (rating 1545) and earned a 3⭐ rating on CodeChef.
+        I'm a Computer Science OK  student at NIT Rourkela with a passion for building innovative solutions. With a CGPA of 9.0, I balance academic excellence with practical coding skills. I've solved 400+ problems on LeetCode (rating 1545) and earned a 3⭐ rating on CodeChef.
         <br />
         <br />
         My technical journey spans DSA, machine learning, and full-stack development. I've interned at prestigious institutions like IIT Gandhinagar and Iowa State University, working on cutting-edge research projects. I'm always eager to collaborate on challenging projects that push the boundaries of technology.
