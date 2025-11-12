@@ -51,19 +51,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-gray-300 text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a B.Tech student at NIT Rourkela, **ranked 4th in my department** and
-  pursuing a high-performance **Minor in Computer Science (9.0 CGPA)**. I'm a
-  builder at heart, obsessed with performance—whether it's solving **400+
-  LeetCode problems** or engineering a **full-scale CI/CD platform** from
-  scratch.
+      I'm a B.Tech student at NIT Rourkela 🎓, ranked 4th in my department and pursuing a high-performance Minor in Computer Science (9.0 CGPA). I'm a builder at heart ❤️, obsessed with performance—whether it's solving 400+ LeetCode problems 💻 or engineering a full-scale CI/CD platform 🚀 from scratch.
         <br />
         <br />
-        My experience spans from building **conversational AI agents with RAG
-  architectures** at **IIT Gandhinagar** to developing real-time,
-  full-stack applications with **Node.js, Next.js, and AWS**. Selected for the
-  prestigious **REU-TRACE AI research program at Iowa State University**,
-  I'm always eager to collaborate on challenging projects that push the
-  boundaries of technology.
+        My experience spans from building conversational AI agents with RAG architectures 🤖 at IIT Gandhinagar to developing real-time, full-stack applications with Node.js, Next.js, and AWS ☁️. Selected for the prestigious REU-TRACE AI research program at Iowa State University 🇺🇸, I'm always eager to collaborate on challenging projects that push the boundaries of technology
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">
