@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Full-Stack Developer",
-    icon: Code2,
-    description: "Building responsive and performant web applications with modern frameworks and technologies.",
-  },
-  {
-    title: "Machine Learning Engineer",
+    title: "AI Engineer",
     icon: BookText,
-    description: "Implementing machine learning algorithms and computer vision solutions for real-world problems.",
+    description: "Building conversational agents and robust RAG systems using LLMs, LangChain, and Computer Vision.",
   },
   {
-    title: "DSA Expert",
+    title: "Backend Developer",
+    icon: Code2,
+    description: "Engineering scalable microservices and cloud infrastructure with Node.js, Docker, and AWS ECS.",
+  },
+  {
+    title: "DSA & CP Enthusiast",
     icon: Award,
-    description: "Strong algorithm skills with 400+ problems solved on LeetCode and 3⭐ on CodeChef.",
+    description: "Solving complex algorithmic problems with 400+ LeetCode solutions and top ranks ⭐ in coding contests.",
   },
 ];
 
