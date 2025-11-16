@@ -96,10 +96,7 @@ const Projects = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-gray-300 text-[17px] max-w-3xl leading-[30px]"
         >
-          These projects showcase my skills and experience through real-world examples of my work. 
-          Each project is briefly described with links to code repositories and live demos. 
-          They reflect my ability to solve complex problems, work with different technologies, 
-          and manage projects effectively.
+         I turn complex problems into functional (and fun) code. 💡 Here are the digital trophies 🏆 of my work, from AI agents 🤖 to full-stack platforms ☁️. Each project is briefly described with links to the code repository and live demos. Dive in and see how I build.
         </motion.p>
       </div>
 
