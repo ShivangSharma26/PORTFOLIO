@@ -135,7 +135,7 @@ const projects = [
   },
 
   {
-    name: "Cabshare-NITR",
+    name: "Cabshare-AI AGENT",
     description:
       "A smart ride-sharing platform built for NIT Rourkela students to effortlessly find, schedule, and share cab rides. It helps students coordinate travel plans, reduce individual travel costs, and improve safety through a community-based system.",
     tags: [
