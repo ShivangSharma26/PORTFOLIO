@@ -107,72 +107,48 @@ const technologies = [
 
 const projects = [
   {
-    name: "Cabshare-NITR",
+    name: "CloudPulse",
     description:
-      "A platform for NIT Rourkela students to find and share cab rides, reducing travel costs and promoting community transportation.",
+      "A deployment automation service that streamlines CI/CD workflows, enables containerized builds with Docker and AWS ECS, and provides fast, reliable, scalable application deployments with real-time build logs and S3-based static exports.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: cabshare,
-    source_code_link: "https://github.com/ShivangSharma26",
-    live_demo_link: "https://github.com/ShivangSharma26",
-  },
-  {
-    name: "Deepfake Detection",
-    description:
-      "An ML-powered system that detects manipulated videos using convolutional neural networks, with 94% accuracy on test datasets.",
-    tags: [
-      {
-        name: "python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tensorflow",
-        color: "green-text-gradient",
-      },
-      {
-        name: "opencv",
-        color: "pink-text-gradient",
-      },
+      { name: "react", color: "blue-text-gradient" },
+      { name: "firebase", color: "green-text-gradient" },
+      { name: "tailwind", color: "pink-text-gradient" },
     ],
     image: deepfake,
-    source_code_link: "https://github.com/ShivangSharma26",
-    live_demo_link: "https://github.com/ShivangSharma26",
+    source_code_link: "https://github.com/ShivangSharma26/CloudPulse---AWS-Deployment-Service",
+    live_demo_link: "https://github.com/ShivangSharma26/CloudPulse---AWS-Deployment-Service",
   },
+
   {
-    name: "Gesture-Based Voice Control",
+    name: "Doctor Dashboard & AI Prescription",
     description:
-      "An accessibility tool that converts hand gestures to voice commands, enabling non-verbal communication for differently-abled users.",
+      "A modern clinic management dashboard with AI-generated prescriptions, speech-to-text assistance, real-time syncing, and secure patient data handling.",
     tags: [
-      {
-        name: "python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "keras",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mediapipe",
-        color: "pink-text-gradient",
-      },
+      { name: "react", color: "blue-text-gradient" },
+      { name: "firebase", color: "green-text-gradient" },
+      { name: "gemini", color: "pink-text-gradient" },
     ],
     image: gesture,
-    source_code_link: "https://github.com/ShivangSharma26",
-    live_demo_link: "https://github.com/ShivangSharma26",
+    source_code_link: "https://github.com/ShivangSharma26/doctor-clinic-app",
+    live_demo_link: "https://github.com/ShivangSharma26/doctor-clinic-app",
+  },
+
+  {
+    name: "Cabshare-NITR",
+    description:
+      "A smart ride-sharing platform built for NIT Rourkela students to effortlessly find, schedule, and share cab rides. It helps students coordinate travel plans, reduce individual travel costs, and improve safety through a community-based system. The platform streamlines cab discovery, enables quick communication, and makes intercity travel more organized and convenient for the entire campus.",
+    tags: [
+      { name: "react", color: "blue-text-gradient" },
+      { name: "firebase", color: "green-text-gradient" },
+      { name: "gemini", color: "pink-text-gradient" },
+    ],
+    image: cabshare,
+    source_code_link: "https://github.com/ShivangSharma26/cabshare-nitr",
+    live_demo_link: "https://github.com/ShivangSharma26/cabshare-nitr",
   },
 ];
+
 
 const testimonials = [
   {
