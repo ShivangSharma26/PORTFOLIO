@@ -137,7 +137,7 @@ const projects = [
   {
     name: "Cabshare-NITR",
     description:
-      "A smart ride-sharing platform built for NIT Rourkela students to effortlessly find, schedule, and share cab rides. It helps students coordinate travel plans, reduce individual travel costs, and improve safety through a community-based system. The platform streamlines cab discovery, enables quick communication, and makes intercity travel more organized and convenient for the entire campus.",
+      "A smart ride-sharing platform built for NIT Rourkela students to effortlessly find, schedule, and share cab rides. It helps students coordinate travel plans, reduce individual travel costs, and improve safety through a community-based system.",
     tags: [
       { name: "react", color: "blue-text-gradient" },
       { name: "firebase", color: "green-text-gradient" },
