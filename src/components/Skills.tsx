@@ -64,8 +64,7 @@ const Skills = () => {
             transition={{ duration: 0.5 }}
             className="mt-3 text-gray-300 text-[17px] max-w-3xl leading-[30px]"
           >
-            I work with a diverse range of technologies across programming languages, frameworks, and tools.
-            My experience spans from low-level C++ programming to high-level web and machine learning frameworks.
+            I work across a wide range of technologies ⚙️— from writing efficient system-level code in C++ to building modern, scalable web applications and experimenting with machine learning frameworks 🤖. My experience lets me connect low-level performance with high-level product development, creating solutions that are both robust and user-focused.
           </motion.p>
         </div>
 
@@ -76,7 +75,7 @@ const Skills = () => {
             transition={{ duration: 0.3 }}
             className="achievement glass-card p-4 flex flex-col items-center rounded-xl my-2 sm:my-0"
           >
-            <h3 className="text-accent-purple text-3xl font-bold">400+</h3>
+            <h3 className="text-accent-purple text-3xl font-bold">600+</h3>
             <p className="text-gray-300 text-sm">LeetCode problems</p>
           </motion.div>
           
